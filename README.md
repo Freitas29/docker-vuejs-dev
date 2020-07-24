@@ -1,7 +1,6 @@
-# Configurando o hot reload para o container
+# Configurando o hot reload para o container :pencil2:
 
-- crie o arquivo vue.config.js :pencil2:
-
+- crie o arquivo vue.config.js
 ```
   module.exports = {
   devServer: {
